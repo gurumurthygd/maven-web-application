@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Gurumurthy Snapshot Nexus Repository </name>
+	      <name>Gurumurthy Snapshot Nexus Repository</name>
 	      <url>http://54.89.194.241:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
